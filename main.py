@@ -9,7 +9,7 @@ import aiohttp
 from yarl import URL
 import httpx
 
-BOT_TOKEN = "BOT TOKEN HERE"
+BOT_TOKEN = "6850658291:AAHImtTVyPTW4jbw0SZjyfgtiexvhqGo064"
 apis = [
     "https://yourapi.com/api1",
     "https://yourapi.com/api2",
