@@ -19,12 +19,12 @@ apis = [
 attack_icon_url = "https://i.imgur.com/PJ9x9cl.jpeg"
 error_icon_url = "https://i.imgur.com/ycl7gTo.jpeg"
 
-ADMIN_IDS = [5145402317, 87654321] #SET YOUR ADMIN IDS HERE
+ADMIN_IDS = [6024356276] #SET YOUR ADMIN IDS HERE
 from functions import ban_user, unban_user, blacklist_command,running_command,method_command,list_banned,plan,start
 
 async def send_to_webhook(full_name, url, time, port, method):
-  bot_token = "YOUR WEBHOOK BOT TOKEN HERE"
-  chat_id = "YOUR WEBHOOK CHAT ID HERE" 
+  bot_token = "6850658291:AAHImtTVyPTW4jbw0SZjyfgtiexvhqGo064"
+  chat_id = "6024356276" 
   text = (
       f"```\n"
       f"User: {full_name}\n"
