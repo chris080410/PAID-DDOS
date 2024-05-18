@@ -11,9 +11,9 @@ import httpx
 
 BOT_TOKEN = "6850658291:AAHImtTVyPTW4jbw0SZjyfgtiexvhqGo064"
 apis = [
-    "https://yourapi.com/api1",
-    "https://yourapi.com/api2",
-    "https://yourapi.com/api3"
+    "https://github.com/aiogram/aiogram",
+    "https://github.com/python-telegram-bot/python-telegram-bot",
+    "https://github.com/eternnoir/pyTelegramBotAP"
 ]
 
 attack_icon_url = "https://i.imgur.com/PJ9x9cl.jpeg"
